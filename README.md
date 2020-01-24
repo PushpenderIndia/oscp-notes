@@ -1,18 +1,5 @@
-# OSCP-Survival-Guide
-Kali Linux Offensive Security Certified Professional Playbook
- 
- ***UPDATE: October 4, 2017***
-For OSCP Lab machine enumeration automation, checkout my other project: **VANQUISH**
-
-Vanquish is a Kali Linux based Enumeration Orchestrator written in Python. Vanquish leverages the opensource enumeration tools on Kali to perform multiple active information gathering phases. The results of each phase are fed into the next phase to identify vulnerabilities that could be leveraged for a remote shell.
- 
- https://github.com/frizb/Vanquish
-
-**NOTE: This document refers to the target ip as the export variable $ip.**  
- 
- **To set this value on the command line use the following syntax:**
- 
- **export ip=192.168.1.100**
+# OSCP - PWK (PenTesting With Kali) NOTES
+Full OSCP Notes which completes whole OSCP Course Curriculum 
 
 ## Table of Contents
 - [Kali Linux](#kali-linux)
