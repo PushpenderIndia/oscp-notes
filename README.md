@@ -1,5 +1,4 @@
-# OSCP Notes Written From PWK (Penetration testing With Kali) Course Videos
-
+# OSCP Notes Written From PWK (Penetration testing With Kali) Course Material
 > Author: Pushpender Singh 
 
 ## Table of Contents
