@@ -3,7 +3,7 @@
 
 ## Table of Contents
 - [PWK Old Notes](https://github.com/PushpenderIndia/oscp-notes/blob/master/pwk.md)
-- [PWK 2020 Notes](https://github.com/PushpenderIndia/oscp-notes/blob/master/pwk-2020.md)
+- [PWK 2020 Notes](https://github.com/PushpenderIndia/oscp-notes/blob/master/2020/README.md)
 
 `Remember : Enumeration is the KEY : )`
 
